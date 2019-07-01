@@ -1,2 +1,2 @@
 # wordpress
-It is my repository about WordPress section
+This is WordPress repository by Jin Min
